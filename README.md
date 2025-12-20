@@ -27,11 +27,11 @@ This application focuses on early literacy by combining visuals, audio, and inte
 Below is a preview of the application interface:
 
 <p align="center">
-  <img src="Preview/Screenshot 2025-12-20 224555.png" width="300"/>
+  <img src="Preview/Screenshot 2025-12-20 224555.png" width="200"/>
   &nbsp;&nbsp;&nbsp &nbsp;&nbsp;&nbsp 
-  <img src="Preview/Screenshot 2025-12-20 224429.png" width="300"/>
+  <img src="Preview/Screenshot 2025-12-20 224429.png" width="200"/>
   &nbsp;&nbsp;&nbsp &nbsp;&nbsp;&nbsp 
-  <img src="Preview/Screenshot 2025-12-20 224619.png" width="300"/>
+  <img src="Preview/Screenshot 2025-12-20 224619.png" width="200"/>
 </p>
 
 <p align="center">
