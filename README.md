@@ -61,7 +61,7 @@ Follow the steps below to run the **ABCD Dasar** project locally:
 
 2. **Clone the Repository**
    ```bash
-   git clone https://github.com/Rizqy-Aza/ABCD-Dasar.git
+   git clone https://github.com/RizqyAzaria/ABCD-Dasar.git
    ``` 
 
 3. **Open the Project in Unity Hub**
